@@ -1,4 +1,12 @@
-### Hi there 👋
+<h3> Hi there 👋</h3>
+<hr>
+
+<details>
+  <summary>Github Statistics...</summary>
+  <p align = "center">
+    <img src="https://github-readme-stats.vercel.app/api?username=JuliusPanduro&show_icon=true"/>  
+</p>
+  </details>
 
 <!--
 **JuliusPanduro/JuliusPanduro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
