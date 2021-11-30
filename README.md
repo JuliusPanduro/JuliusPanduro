@@ -1,17 +1,18 @@
-<h3> Hi there 👋</h3>
+<h3> Hi there 👋 </h3>
+<h4>🌱 I’m currently learning ...</h4>
 <hr>
 
 <details>
   <summary>Github Statistics...</summary>
   <p align = "center">
     <img src="https://github-readme-stats.vercel.app/api?username=JuliusPanduro&show_icon=true&theme=dark"/>  
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliusPanduro&layout=compact&theme=dark"/>
+
 </p>
   </details>
 
 <!--
 **JuliusPanduro/JuliusPanduro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliusPanduro&layout=compact&theme=dark"/>-->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
