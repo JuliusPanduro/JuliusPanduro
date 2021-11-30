@@ -1,5 +1,6 @@
 <h2> Hi there 👋 </h2>
-<h3> My name is Julius Panduro Rydstrøm </h3>
+<h3> My name is Julius Panduro Rydstrøm <br>
+Im studing Computer Science</h3>
 <h4>And I’m currently learning 🌱...</h4>
 <hr>
 
