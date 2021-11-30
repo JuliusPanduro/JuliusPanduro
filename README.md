@@ -5,12 +5,12 @@
 <details>
   <summary>Github Statistics...</summary>
   <p align = "center">
-    <img src="https://github-readme-stats.vercel.app/api?username=JuliusPanduro&show_icon=true&theme=dark"/>  
+    <img src="https://github-readme-stats.vercel.app/api?username=JuliusPanduro&show_icon=true&theme=github_dark"/>  
 
 </p>
   </details>
 
-   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliusPanduro&layout=compact&theme=dark"/>-->
+   <!--#0d1117 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliusPanduro&layout=compact&theme=dark"/>-->
 <!--
 **JuliusPanduro/JuliusPanduro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
