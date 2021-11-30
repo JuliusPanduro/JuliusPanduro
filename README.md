@@ -1,6 +1,6 @@
 <h3> Hi there 👋 </h3>
 <h4>🌱 I’m currently learning ...</h4>
-<img src="https://img.icons8.com/material-outlined/50/000000/linkedin--v2.png"/>
+<img src="https://img.icons8.com/material-outlined/50/000000/linkedin--v2.png" href="linkedin.com"/>
 
 <hr>
 
