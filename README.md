@@ -1,8 +1,6 @@
-<h3> Hi there 👋 </h3>
-<h4>🌱 I’m currently learning ...</h4>
-<a href="www.linkedin.com/in/juliuspanduro">
-<img src="https://img.icons8.com/ios/50/000000/linkedin.png"/>
-</a>
+<h2> Hi there 👋 </h2>
+<h3> My name is Julius Panduro Rydstrøm </h3>
+<h4>And I’m currently learning 🌱...</h4>
 <hr>
 
 <details>
