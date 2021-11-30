@@ -1,7 +1,8 @@
 <h3> Hi there 👋 </h3>
 <h4>🌱 I’m currently learning ...</h4>
+<a href="linkedin.com">
 <img src="https://img.icons8.com/material-outlined/50/000000/linkedin--v2.png" href="linkedin.com"/>
-
+</a>
 <hr>
 
 <details>
