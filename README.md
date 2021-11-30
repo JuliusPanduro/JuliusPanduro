@@ -10,9 +10,10 @@
 </p>
   </details>
 
+   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliusPanduro&layout=compact&theme=dark"/>-->
 <!--
 **JuliusPanduro/JuliusPanduro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliusPanduro&layout=compact&theme=dark"/>-->
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
