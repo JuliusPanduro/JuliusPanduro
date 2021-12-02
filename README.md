@@ -4,7 +4,7 @@
 <hr>
 
 <details>
-  <summary>Github Statistics...</summary>
+  <summary>Github Statistics...📈</summary>
   <p align = "center">
     <img src="https://github-readme-stats.vercel.app/api?username=JuliusPanduro&show_icon=true&theme=github_dark"/>  
 
