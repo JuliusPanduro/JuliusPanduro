@@ -11,7 +11,7 @@
 </p>
   </details>
 
-   <!--#0d1117--> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliusPanduro&layout=compact&theme=dark"/>
+   <!--#0d1117 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliusPanduro&layout=compact&theme=dark"/>--> 
 <!--
 **JuliusPanduro/JuliusPanduro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
