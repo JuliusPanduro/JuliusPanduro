@@ -1,6 +1,6 @@
 <h2> Hi there 👋 </h2>
 <h3> My name is Julius Panduro Rydstrøm </h3>
-<h4>I am studying computer science, And I’m currently learning 🌱...</h4>
+<h4>Gratuated in Computer science, and still learning 🌱...</h4>
 <hr>
 
 <details>
