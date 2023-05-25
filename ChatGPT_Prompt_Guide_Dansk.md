@@ -1,10 +1,10 @@
 
 ## Vigtige Elementer at inkludere
-### Tone
-### Format
-### Formål
-### Kontekst
-### Eksempler 
+### 1. Tone
+### 2. Format
+### 3. Formål
+### 4. Kontekst
+### 5. Eksempler 
 
 1. Tone: Angiv den ønskede tone (f.eks. formel, uformel, informativ, overbevisende).
 2. Format: Definer formatet eller strukturen (f.eks. essay, punktopstilling, disposition, dialog).
