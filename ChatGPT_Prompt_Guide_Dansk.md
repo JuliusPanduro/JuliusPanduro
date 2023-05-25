@@ -1,4 +1,4 @@
-# En Guide til hvordan man kan lave gode og effektive prompt til ChatGPT
+# En Guide til hvordan man kan lave gode og effektive prompts til ChatGPT
 
 ## Vigtige Elementer at inkludere
 ### 1. Tone
