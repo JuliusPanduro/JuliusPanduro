@@ -1,9 +1,10 @@
 <h2> Hi there 👋 </h2>
 <h3> My name is Julius Panduro Rydstrøm </h3>
 <h4>Gratuated in Computer science, and still learning 🌱...</h4>
+<h5> Developer at Droids Agency </h5>
 <hr>
 
-<details>
+<!--<details>
   <summary>Github Statistics...📈</summary>
   <p align = "center">
     <img src="https://github-readme-stats.vercel.app/api?username=JuliusPanduro&show_icon=true&theme=github_dark"/>  
